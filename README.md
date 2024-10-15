@@ -47,6 +47,10 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+<a href="https://github.com/alefsantos498/alefsantos498.git">Programas Python</a><br>
+<a>Programas Java</a><br>
+<a>Programas HTML</a><br>
+<a>Programas Javascript</a>
 
 ###
 

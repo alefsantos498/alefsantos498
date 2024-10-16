@@ -1,10 +1,11 @@
 #Código simples,para desenhar um quadrado com os valores de entrada
 
-try:
-    lg = int(input('digite a largura: '))
+try:#Tratamento de Exceções
+    lg = int(input('digite a largura: '))#Entradas do usuário
     alt = int(input('digite a altura: '))
 
     i = 0
+    #
     while i < alt:
         j = 0
         while j < lg:

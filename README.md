@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-  <img src="C:\Users\alefv\OneDrive\Área de Trabalho\GitHub\WhatsApp Image 2025-03-27 at 12.37.25.jpeg" 
+  <img src="https://github.com/alefsantos498/alefsantos498/blob/main/WhatsApp%20Image%202025-03-27%20at%2012.37.25.jpeg" 
        alt="Imagem de Perfil" 
-       width="200" 
+       width="150" 
        style="border-radius: 50%; border: 4px solid #eee;">
 </div>
 

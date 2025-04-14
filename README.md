@@ -1,102 +1,93 @@
-# Olá, eu sou o Alef!
+<h1 align="center">👋 Olá, eu sou o Alef Santos Viana</h1>
 
-<p align="center" style="font-size: 1.2rem; color: #555;">
-  Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Programação
+<p align="center">
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
+  💼 Estagiário no <strong>Sebrae MG</strong> | Desenvolvedor em formação <br>
+  ♟️ Apaixonado por tecnologia, xadrez, esportes e desafios 🚀
 </p>
 
 <div align="center">
-  <img src="https://github.com/alefsantos498/alefsantos498/blob/main/WhatsApp%20Image%202025-03-27%20at%2012.37.25.jpeg" 
-       alt="Imagem de Perfil" 
-       width="150" 
-       style="border-radius: 50%; border: 4px solid #eee;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Desenvolvedor+Fullstack+em+formação;Apaixonado+por+resolver+problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 ---
 
-## Estatísticas do GitHub
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alefsantos498&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-       alt="GitHub Stats" 
-       height="150" 
-       style="margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alefsantos498&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-       alt="Top Languages" 
-       height="150" 
-       style="margin: 10px;">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alefsantos498&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
-       alt="Streak Stats" 
-       height="150" 
-       style="margin: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alefsantos498&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true" 
-       alt="Activity Graph" 
-       height="300" 
-       style="margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,java,git,github,vscode" />
 </div>
 
 ---
 
-## Linguagens de Programação
+## 📂 Meus Projetos
+
+🚧 *Em constante construção e aprimoramento!*
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 🧠 **Clube de Xadrez** | Sistema de gerenciamento de associados e torneios. | HTML, CSS, JS, MySQL |
+| 📊 **Loteria Analyzer** | Ferramenta para análise de números sorteados. | Python, Pandas |
+| 🔐 **Validador de Login** | Validação de campos em formulário com JS. | HTML, JS |
+
+---
+
+## 🎓 Certificações e Cursos
+
+- 🧾 **Python para Iniciantes** – Curso em vídeo (YouTube)
+- 🧾 **JavaScript Essencial** – Curso Alura
+- 🧾 **Banco de Dados com MySQL** – Curso Udemy
+- 🧾 **Desenvolvimento Web Completo** – Em andamento
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" style="margin: 5px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alef-viana&show_icons=true&theme=transparent&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-viana&layout=compact&theme=transparent"/>
 </div>
 
 ---
 
-## Projetos
+## 🔥 Contribuições e Atividades
 
 <div align="center">
-  <a href="https://github.com/alefsantos498/alefsantos498.git" style="margin: 0 10px;">Projetos em Python</a>
-  <a href="#" style="margin: 0 10px;">Projetos em Java</a>
-  <a href="#" style="margin: 0 10px;">Projetos em HTML</a>
-  <a href="#" style="margin: 0 10px;">Projetos em JavaScript</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alef-viana&theme=default" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alef-viana&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
 
-## Conecte-se Comigo
+## 🧠 Sobre mim
+
+- 👨‍💻 Atualmente focado em melhorar minhas habilidades em **back-end, banco de dados e automações**
+- 📚 Gosto de estudar, resolver problemas e criar soluções que geram impacto
+- 🤝 Abertura para projetos colaborativos e networking na área de tecnologia
+
+---
+
+## 📫 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alef-santos-viana-34b9b9324" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-         alt="LinkedIn" 
-         width="52" 
-         height="40">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/drZDAjAS" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
-         alt="Discord" 
-         width="52" 
-         height="40">
-  </a>
-  <a href="https://www.instagram.com/alefsantos78/" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" 
-         alt="Instagram" 
-         width="52" 
-         height="40">
-  </a>
-  <a href="mailto:alefviana4@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-         alt="Gmail" 
-         width="52" 
-         height="40">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
-       alt="Animated GIF" 
-       height="400" 
-       style="margin-top: 20px;">
-</div>
+<p align="center">
+  ⭐ Se gostou de algum projeto, deixe uma estrela! <br>
+  🔄 Estou sempre atualizando este perfil!
+</p>

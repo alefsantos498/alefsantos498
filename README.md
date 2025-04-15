@@ -59,7 +59,9 @@
 ## 🔥 Contribuições Recentes
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefsantos498&theme=default" alt="GitHub streak stats" />
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alefsantos498&theme=github" alt="Contribution Graph" />
+</div>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=for-the-badge" alt="Profile views" />
 </div>

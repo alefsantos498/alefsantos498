@@ -30,9 +30,9 @@
 
 | Projeto                | Descrição                                            | Tecnologias                |
 |------------------------|------------------------------------------------------|----------------------------|
-| 🧠 **Clube de Xadrez** | Sistema de gerenciamento de associados e torneios    | HTML, CSS, JS, MySQL       |
-| 📊 **Loteria Analyzer**| Ferramenta para análise de números sorteados         | Python, Pandas             |
-| 🔐 **Validador de Login**| Validação de formulário de login                   | HTML, JavaScript           |
+| 🧐 **Clube de Xadrez** | Sistema de gerenciamento de associados e torneios    | HTML, CSS, JS, MySQL       |
+| 📊 **Sistema de Cadastro de Empresa**| Ferramenta para cadastro de empresas para escritorio de contabilidade | HTML,CSS,JS,MySQL       |
+
 
 > 🚧 *Em constante aprimoramento e evolução!*
 
@@ -40,10 +40,24 @@
 
 ## 🎓 Cursos e Certificações
 
-- 🧾 Python para Iniciantes – Curso em vídeo (YouTube)
-- 🧾 JavaScript Essencial – Alura
-- 🧾 Banco de Dados com MySQL – Udemy
-- 🧾 Desenvolvimento Web Completo – Em andamento
+- 📟 **Python Developer** – SoloLearn – 12/04/2025  
+- 📟 **Python Intermediate** – SoloLearn – 07/04/2025  
+- 📟 **Python AI Development** – Mimo – 07/04/2025  
+- 📟 **Curso de Python** – Mimo – 07/04/2025  
+- 📟 **Introduction to JavaScript** – SoloLearn – 27/02/2025  
+- 📟 **Introduction to Java** – SoloLearn – 19/02/2025  
+- 📟 **Introduction to C#** – SoloLearn – 14/02/2025  
+- 📟 **Introduction to Python** – SoloLearn – 16/01/2025  
+- 📟 **Introduction to C** – SoloLearn – 11/11/2024  
+- 📟 **Introduction to Python** – Codefinity – 19/04/2024  
+- 📟 **Conditional Statements in Python** – Codefinity – 24/08/2024  
+- 📟 **Python Data Structures** – Codefinity – 20/08/2024  
+- 📟 **Python Loops Tutorial** – Codefinity – 07/09/2024  
+- 📟 **Data Types in Python** – Codefinity – 27/04/2024  
+- 📟 **Java Basics** – Codefinity – 20/04/2024  
+- 📟 **Introdução à Linguagem Python** – Colabora Educação – 15h – 1º Sem/2025  
+- 📟 **Estruturas de Dados em Python** – Colabora Educação – 10h – 1º Sem/2025  
+- 📟 **Introdução à Análise de Dados com Python** – Colabora Educação – 15h – 1º Sem/2025  
 
 ---
 
@@ -59,16 +73,14 @@
 ## 🔥 Contribuições Recentes
 
 <div align="center">
-  <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alefsantos498&theme=github" alt="Contribution Graph" />
-</div>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧐 Sobre mim
 
 - 👨‍💻 Focado em desenvolvimento back-end, banco de dados e automações
 - 📚 Estudo constantemente para criar soluções que gerem impacto real
@@ -76,7 +88,7 @@
 
 ---
 
-## 📫 Contato
+## 📢 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alef-viana-191347355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">

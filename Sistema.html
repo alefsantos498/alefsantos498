@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checklist Abertura de Empresa - Tema Claro e Interativo</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+
+    <!-- CSS do Projeto -->
+    <link rel="stylesheet" href="css.css" />
+
+    <!-- Flatpickr CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+</head>
+<body>
+    <!-- Espaço para a logo do escritório -->
+    <div class="logo-container">
+        <!-- Certifique-se de que o arquivo "LOGO-NOVA.png" esteja no mesmo diretório ou ajuste o caminho -->
+        <img src="../imagens/LOGO-NOVA.png" alt="Logo Pontual Contabilidade" width="75%" height="75%" />
+    </div>
+
+    <h1>Checklist Abertura de Empresa</h1>
+    <form id="multiStepForm" action="/submit" method="post">
+        <ul id="progressbar">
+            <li class="active">Informações Básicas</li>
+            <li>Dados da Empresa</li>
+            <li>Detalhes Finais</li>
+        </ul>
+
+        <!-- Etapa 1: Informações Básicas e Custos -->
+        <fieldset class="active">
+            <h2>Dados Gerais e Custos</h2>
+            <div class="form-group">
+                <label for="data_atual">Data Atual <small>*</small></label>
+                <input type="text" id="data_atual" name="data_atual" value="10/03/2025" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="inicio_negociacao">Início de Negociação <small>*</small></label>
+                <input type="text" id="inicio_negociacao" name="inicio_negociacao" value="10/03/2025" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="escritorio">Escritório <small>*</small></label>
+                <input type="text" id="escritorio" name="escritorio" value="Nanuque" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="obs_gerais">Observações Gerais</label>
+                <textarea id="obs_gerais" name="obs_gerais" rows="3"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="taxas_servicos">Taxas e Serviços Contábeis (R$) <small>*</small></label>
+                <input type="text" id="taxas_servicos" name="taxas_servicos" value="1000,00" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="cert_digital_pj">Certificado Digital PJ (R$) <small>*</small></label>
+                <input type="text" id="cert_digital_pj" name="cert_digital_pj" value="240,00" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="cert_digital_pf">Certificados Digitais PF (R$) <small>*</small></label>
+                <input type="text" id="cert_digital_pf" name="cert_digital_pf" value="175,00" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="valor_total_abertura">Valor Total Abertura (R$)</label>
+                <input type="text" id="valor_total_abertura" name="valor_total_abertura" readonly />
+            </div>
+            <div class="form-group">
+                <label for="status_pagamento">Status do Pagamento</label>
+                <input type="text" id="status_pagamento" name="status_pagamento" value="50% PIX e 50% Dinhero" />
+            </div>
+            <div class="button-group">
+                <button type="button" class="action-button next">Próximo</button>
+            </div>
+        </fieldset>
+
+        <!-- Etapa 2: Dados da Empresa e Responsável -->
+        <fieldset>
+            <h2>Dados da Empresa e Responsável</h2>
+            <div class="form-group">
+                <label for="natureza_juridica">Natureza Jurídica</label>
+                <input type="text" id="natureza_juridica" name="natureza_juridica" value="Sociedade Limitada" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="regime_tributario">Regime Tributário</label>
+                <input type="text" id="regime_tributario" name="regime_tributario" value="Simples Nacional" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="razao_social">Razão Social <small>*</small></label>
+                <input type="text" id="razao_social" name="razao_social" value="DUARTE E NASCIMENTO ENERGIAS RENOVAVEIS" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="nome_fantasia">Nome Fantasia <small>*</small></label>
+                <input type="text" id="nome_fantasia" name="nome_fantasia" value="DUARTE E NASCIMENTO ENERGIAS RENOVAVEIS" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="endereco_empresa">Endereço da Empresa <small>*</small></label>
+                <input type="text" id="endereco_empresa" name="endereco_empresa" value="AV AGENOR LUIZ HERINGER 432-A - CENTRO - PINHEIRO / EX - CEP: 29980-000" data-required="true" aria-required="true" />
+            </div>
+            <div class="form-group">
+                <label for="capital_social">Capital Social</label>
+                <input type="text" id="capital_social" name="capital_social" value="100000,00" />
+            </div>
+            <div class="form-group">
+                <label for="telefone_cnpj">Telefone para CNPJ</label>
+                <input type="text" id="telefone_cnpj" name="telefone_cnpj" value="33 99849-5049" />
+            </div>
+            <div class="form-group">
+                <label for="email_cnpj">Email para CNPJ</label>
+                <input type="text" id="email_cnpj" name="email_cnpj" value="pontual" />
+            </div>
+            <div class="form-group">
+                <label for="responsavel_contabilidade">Responsável Contábil</label>
+                <input type="text" id="responsavel_contabilidade" name="responsavel_contabilidade" value="Vanessa da EcoPower" />
+            </div>
+            <div class="form-group">
+                <label for="atividades_empresa">Atividades da Empresa</label>
+                <input type="text" id="atividades_empresa" name="atividades_empresa" value="Marketing Direto, etc." />
+            </div>
+            <div class="form-group">
+                <label for="conta_bancaria">Conta Bancária Vai Abrir?</label>
+                <select id="conta_bancaria" name="conta_bancaria">
+                    <option value="sim" selected>Sim</option>
+                    <option value="nao">Não</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="banco">Qual Banco?</label>
+                <select id="banco" name="banco">
+                    <option value="bradesco" selected>Bradesco</option>
+                    <option value="itau">Itaú</option>
+                    <option value="santander">Santander</option>
+                    <option value="caixa">Caixa Econômica Federal</option>
+                    <option value="bb">Banco do Brasil</option>
+                    <option value="safra">Banco Safra</option>
+                    <option value="nubank">Nubank</option>
+                    <option value="inter">Banco Inter</option>
+                    <option value="original">Banco Original</option>
+                    <option value="outro">Outro (Preencher manualmente)</option>
+                </select>
+            </div>
+            <!-- Campo manual para banco -->
+            <div class="form-group" id="banco-manual-group" style="display: none;">
+                <label for="banco_manual">Digite o nome do banco</label>
+                <input type="text" id="banco_manual" name="banco_manual" placeholder="Digite o nome do banco" />
+            </div>
+            <div class="button-group">
+                <button type="button" class="action-button previous">Anterior</button>
+                <button type="button" class="action-button next">Próximo</button>
+            </div>
+        </fieldset>
+
+        <!-- Etapa 3: Documentos, Honorários e Sócios -->
+        <fieldset>
+            <h2>Documentos, Honorários e Sócios</h2>
+            <div class="form-group">
+                <label for="documentos_necessarios">Documentos Necessários</label>
+                <textarea id="documentos_necessarios" name="documentos_necessarios" rows="3">IPTU do endereço da empresa, RG, CPF</textarea>
+            </div>
+            <div class="form-group">
+                <label for="certificados_necessarios">Certificados Digitais Necessários</label>
+                <input type="text" id="certificados_necessarios" name="certificados_necessarios" value="Já fez no escritório" />
+            </div>
+            <div class="form-group">
+                <label for="valor_honorarios">Valor dos Honorários (R$)</label>
+                <input type="text" id="valor_honorarios" name="valor_honorarios" value="400,00" />
+            </div>
+            <div class="form-group">
+                <label for="data_vencimento">Melhor Data de Vencimento</label>
+                <input type="text" id="data_vencimento" name="data_vencimento" />
+            </div>
+            <div class="form-group">
+                <label for="negociacao_13">Negociação de 13º Salário de Honorários</label>
+                <input type="text" id="negociacao_13" name="negociacao_13" value="Não vai ter" />
+            </div>
+            <div class="form-group">
+                <label for="obs_honorarios">Observações dos Honorários</label>
+                <input type="text" id="obs_honorarios" name="obs_honorarios" value="Boleto Bancário" />
+            </div>
+            <div class="form-group">
+                <label for="data_limite">Data Limite para Concluir Abertura</label>
+                <input type="text" id="data_limite" name="data_limite" />
+            </div>
+            <div class="form-group">
+                <label for="quantidade_socios">Quantidade de Sócios</label>
+                <input type="number" id="quantidade_socios" name="quantidade_socios" value="1" min="1" />
+            </div>
+            <!-- Container para gerar dinamicamente os campos dos sócios -->
+            <div id="socios-container"></div>
+            <div class="button-group">
+                <button type="button" class="action-button previous">Anterior</button>
+                <button type="submit" class="action-button">Enviar</button>
+            </div>
+        </fieldset>
+    </form>
+
+    <!-- Flatpickr JS -->
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <!-- Localização em Português -->
+<script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/pt.js"></script><span style="background-color: #CCA0BE"></span>
+    <!-- Script do Projeto (Carregado com defer para melhor desempenho) -->
+    <script src="script.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard do Membro - Clube de Xadrez Nanuque</title>
+    <link rel="stylesheet" href="dashboardcss.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo, [Nome do Membro]</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#perfil">Perfil</a></li>
+            <li><a href="#eventos">Eventos</a></li>
+            <li><a href="#mensagens">Mensagens</a></li>
+            <li><a href="#configuracoes">Configurações</a></li>
+            <li><a href="logout.php">Sair</a></li>
+        </ul>
+    </nav>
+    <main class="container">
+        <!-- Cartão do Perfil -->
+        <section id="perfil" class="card">
+            <h2>Meu Perfil</h2>
+            <div class="profile-info">
+                <img src="imagens/user-placeholder.png" alt="Foto do Membro" loading="lazy">
+                <div>
+                    <p><strong>Nome:</strong> [Nome do Membro]</p>
+                    <p><strong>Email:</strong> email@exemplo.com</p>
+                </div>
+            </div>
+            <p>Biografia curta ou estatísticas de participação em torneios.</p>
+        </section>
+        <!-- Cartão dos Eventos -->
+        <section id="eventos" class="card">
+            <h2>Eventos</h2>
+            <ul>
+                <!-- Eventos serão carregados via JavaScript -->
+            </ul>
+        </section>
+        <!-- Cartão das Mensagens -->
+        <section id="mensagens" class="card">
+            <h2>Mensagens</h2>
+            <ul>
+                <li><strong>Aviso:</strong> Novo torneio adicionado!</li>
+                <li><strong>Mensagem:</strong> Confira as novidades do clube.</li>
+            </ul>
+        </section>
+        <!-- Cartão de Configurações -->
+        <section id="configuracoes" class="card">
+            <h2>Configurações</h2>
+            <p>Atualize suas preferências:</p>
+            <form action="atualiza_config.php" method="POST">
+                <label for="senha">Nova Senha:</label>
+                <input type="password" name="senha" id="senha" placeholder="Digite sua nova senha" required>
+                <button type="submit">Atualizar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Clube de Xadrez Nanuque. Todos os direitos reservados.</p>
+    </footer>
+    <script src="dashboardjs.js"></script>
+</body>
+</html>

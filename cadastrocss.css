@@ -1,0 +1,213 @@
+/* css/cadastro.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+:root {
+    --primary-bg: #121f3d;
+    --secondary-bg: rgba(30,41,59,0.8);
+    --header-gradient-start: #1e3a8a;
+    --header-gradient-end: #2563eb;
+    --button-bg: #2563eb;
+    --button-hover-bg: #1e40af;
+    --back-button-bg: #ff5722;
+    --back-button-hover-bg: #e64a19;
+    --font-color: #fff;
+    --error-color: #ffb3b3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--primary-bg);
+    color: var(--font-color);
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background: linear-gradient(135deg, var(--header-gradient-start), var(--header-gradient-end));
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+main {
+    max-width: 400px;
+    background: var(--secondary-bg);
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgba(0,0,0,0.3);
+    animation: fadeIn 1s ease-out;
+    backdrop-filter: blur(8px);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 14px 10px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    background: rgba(255,255,255,0.1);
+    color: var(--font-color);
+}
+
+.input-group input::placeholder {
+    color: transparent;
+}
+
+.input-group label {
+    position: absolute;
+    top: 14px;
+    left: 10px;
+    color: #ccc;
+    pointer-events: none;
+    transition: 0.2s ease all;
+}
+
+.input-group input:focus + label,
+.input-group input:not(:placeholder-shown) + label {
+    top: -8px;
+    left: 8px;
+    font-size: 0.85em;
+    color: var(--button-bg);
+    background-color: var(--secondary-bg);
+    padding: 0 4px;
+    border-radius: 3px;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+    outline: none;
+    border: 1px solid var(--button-bg);
+    box-shadow: 0 0 5px rgba(37,99,235,0.5);
+    background: rgba(255,255,255,0.15);
+}
+
+.select-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+.select-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 0.95em;
+}
+.select-group select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    background: rgba(255,255,255,0.1);
+    color: var(--font-color);
+}
+.select-group select:focus {
+    outline: none;
+    border: 1px solid var(--button-bg);
+    box-shadow: 0 0 5px rgba(37,99,235,0.5);
+    background: rgba(255,255,255,0.15);
+}
+.select-group select option {
+    font-weight: bold;
+    color: #000;
+}
+
+input[type="submit"], button[type="button"] {
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s, transform 0.3s, box-shadow 0.3s;
+    width: 100%;
+    margin-top: 10px;
+}
+
+input[type="submit"] {
+    background: var(--button-bg);
+    color: var(--font-color);
+}
+
+input[type="submit"]:hover {
+    background: var(--button-hover-bg);
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+button[type="button"] {
+    background: var(--back-button-bg);
+    color: var(--font-color);
+    margin-top: 10px;
+}
+
+button[type="button"]:hover {
+    background: var(--back-button-hover-bg);
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.error-msg {
+    color: var(--error-color);
+    font-size: 0.85em;
+    margin-top: 5px;
+}
+
+#cep-loading {
+    display: none;
+    margin: 10px auto;
+}
+
+.spinner {
+    border: 2px solid rgba(255,255,255,0.3);
+    border-top: 2px solid var(--button-bg);
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+footer {
+    margin-top: 40px;
+    background-color: var(--secondary-bg);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.5);
+    font-size: 0.9em;
+}
+
+@media (max-width: 480px) {
+    main {
+        padding: 15px;
+    }
+    header h1 {
+        font-size: 1.5em;
+    }
+}

@@ -1,0 +1,289 @@
+/* css/agenda.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+:root {
+    --primary-bg: #121f3d;
+    --secondary-bg: #1e293b;
+    --header-gradient-start: #1e3a8a;
+    --header-gradient-end: #2563eb;
+    --card-bg: rgba(255,255,255,0.05);
+    --card-hover-bg: rgba(255,255,255,0.1);
+    --font-color: #fff;
+    --accent-color: #2563eb;
+    --modal-bg: rgba(0,0,0,0.8);
+    --modal-content-bg: #1e293b;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--primary-bg);
+    color: var(--font-color);
+    padding: 20px;
+    line-height: 1.5;
+}
+
+header {
+    text-align: center;
+    background: linear-gradient(135deg, var(--header-gradient-start), var(--header-gradient-end));
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+/* Botão de voltar */
+#backContainer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#backButton {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: var(--accent-color);
+    color: var(--font-color);
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+}
+
+#backButton:hover {
+    background: #1e40af;
+    transform: scale(1.02);
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Filtros Avançados */
+#filtersContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#filtersContainer input[type="text"],
+#filtersContainer input[type="date"] {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1em;
+    outline: none;
+    background: rgba(255,255,255,0.1);
+    color: var(--font-color);
+    transition: background 0.3s, box-shadow 0.3s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+#filtersContainer select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1em;
+    outline: none;
+    background: rgba(255,255,255,0.1);
+    color: #fff;
+    font-weight: 600;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='10'%20height='5'%3E%3Cpath%20d='M0,0%20L5,5%20L10,0'20stroke='%23fff'%20stroke-width='1'%20fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+}
+
+#filtersContainer select option {
+    background: grey;
+    color: #fff;
+    font-weight: 600;
+}
+
+#filtersContainer input[type="text"]::placeholder,
+#filtersContainer select::placeholder {
+    color: #ccc;
+    font-style: italic;
+}
+
+#filtersContainer input[type="text"]:focus,
+#filtersContainer input[type="date"]:focus,
+#filtersContainer select:focus {
+    background: rgba(255,255,255,0.2);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+/* Seção de Eventos */
+section#eventsSection {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.event-card {
+    background: var(--card-bg);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    transition: transform 0.3s, background 0.3s;
+}
+
+.event-card:hover {
+    transform: translateY(-5px);
+    background: var(--card-hover-bg);
+}
+
+.event-date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent-color);
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 15px;
+    flex-direction: column;
+    line-height: 1;
+}
+
+.event-date small {
+    font-size: 0.7em;
+}
+
+.event-details h2 {
+    margin-bottom: 10px;
+    font-size: 1.3em;
+}
+
+.event-details p {
+    font-size: 0.95em;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.event-details .event-time {
+    font-size: 0.85em;
+    color: #ccc;
+    margin-bottom: 15px;
+}
+
+.event-details button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background: var(--accent-color);
+    color: var(--font-color);
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.event-details button:hover {
+    background: #1e40af;
+}
+
+#noEventsMessage {
+    display: none;
+    text-align: center;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    background: var(--secondary-bg);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.5);
+    font-size: 0.9em;
+    margin-top: 40px;
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: var(--modal-bg);
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.modal-content {
+    background: var(--modal-content-bg);
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+    animation: modalFadeIn 0.3s ease-out;
+}
+
+@keyframes modalFadeIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: #fff;
+}
+
+#modalMapLink {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+    #filtersContainer input,
+    #filtersContainer select {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+}

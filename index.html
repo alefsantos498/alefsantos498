@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clube de Xadrez - Início</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <header>
+        <img src="../imagens/Clube de xadrez de nanuque Baner (Tranparente).png" alt="Logo do Clube de Xadrez" class="logo" loading="lazy" width="65%" height="65%">
+        <h1>Clube de Xadrez Nanuque</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Início</a></li>
+            <li><a href="agenda.html">Agenda de Eventos</a></li>
+            <li><a href="login.html">Área de Membros</a></li>
+            <li><a href="#blog">Blog & Dicas</a></li>
+            <li><a href="#tournaments">Torneios</a></li>
+        </ul>
+    </nav>
+    <main id="home">
+        <section class="hero">
+            <h2>Bem-vindo ao Clube de Xadrez Nanuque</h2>
+            <p>Participe de torneios, aprenda novas estratégias e faça parte da nossa comunidade!</p>
+            <button class="btn-cadastro" onclick="location.href='cadastrohtml.html'">Cadastre-se</button>
+        </section>
+    </main>
+   <!-- Ícone do Calendário -->
+    <button class="calendar-icon" onclick="toggleCalendar()" aria-label="Abrir calendário">
+        <svg viewBox="0 0 24 24" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+            <rect x="3" y="4" width="18" height="18" rx="2"/>
+            <path d="M16 2V6" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M8 2V6" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M3 10H21" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+    </button>
+
+    <!-- Popup do Calendário -->
+    <div class="calendar-container" id="calendar-popup" aria-hidden="true">
+        <button class="calendar-close" onclick="toggleCalendar()" aria-label="Fechar calendário">&times;</button>
+        <h3>Calendário de Eventos</h3>
+        <p>📅 Torneio Rápido - 15/03</p>
+        <p>📅 Campeonato Estadual - 22/03</p>
+        <p>📅 Aberto de Xadrez - 05/04</p>
+    </div>
+
+    <footer>
+        <p>© 2025 Clube de Xadrez Nanuque. Todos os direitos reservados.</p>
+    </footer>
+    <script src="js.js"></script>
+</body>
+</html>

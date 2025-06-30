@@ -18,6 +18,20 @@
 
 ---
 
+## 💪 Níveis de Proficiência
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-★★★☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-★★☆☆☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★★☆-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-★★☆☆☆-007396?style=for-the-badge&logo=java&logoColor=white)
+  
+</div>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens de Programação
@@ -42,70 +56,10 @@
 
 ---
 
-## 🌱 Atualmente Aprendendo
-
-- 🔍 Aprofundando em **Django** para desenvolvimento web
-- 📊 Explorando **Ciência de Dados** com Python
-- 🚀 Iniciando estudos em **React**
-
----
-
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|------------|------|
-| 🧐 **Clube de Xadrez** | Sistema de gerenciamento de associados e torneios | HTML, CSS, JS, MySQL | [Ver Projeto](https://github.com/alefsantos498/clube-xadrez) |
-| 📊 **Sistema de Cadastro de Empresa** | Ferramenta para cadastro de empresas para escritório de contabilidade | HTML, CSS, JS, MySQL | [Ver Projeto](https://github.com/alefsantos498/cadastro-empresa) |
-
-> 🚧 *Em constante aprimoramento e evolução!*
-
----
-
-## 📸 Demonstração de Projetos
-
-<details>
-  <summary>🧐 Clube de Xadrez</summary>
-  <img src="https://raw.githubusercontent.com/alefsantos498/clube-xadrez/main/screenshot.png" alt="Screenshot do Projeto Clube de Xadrez" />
-</details>
-
-<details>
-  <summary>📊 Sistema de Cadastro de Empresa</summary>
-  <img src="https://raw.githubusercontent.com/alefsantos498/cadastro-empresa/main/screenshot.png" alt="Screenshot do Sistema de Cadastro" />
-</details>
-
----
-
-## 💼 Experiência Profissional
-
-<img align="right" width="150" src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo-500x281.png" />
-
-### Sebrae MG
-**Estagiário de Desenvolvimento** | Atual  
-- Desenvolvimento de soluções web para pequenos negócios
-- Suporte técnico para sistemas internos
-- Participação em projetos de transformação digital
-
----
-
-## 🗺️ Meu Roadmap de Carreira
-
-- [x] 🎓 Iniciar formação em Análise e Desenvolvimento de Sistemas
-- [x] 💼 Conquistar primeiro estágio na área de tecnologia
-- [ ] 🌐 Desenvolver um projeto fullstack completo
-- [ ] 📱 Criar um aplicativo mobile
-- [ ] 🏆 Contribuir para projetos open source
-- [ ] 👨‍💻 Tornar-me desenvolvedor fullstack
-
----
-
-## 📚 Timeline de Formação
-
-```mermaid
-timeline
-    title Minha Jornada Acadêmica e Profissional
-    2023 : Início da graduação em ADS
-    2024 : Estágio no Sebrae MG
-          : Primeiros projetos pessoais
-    2025 : Atual
-          : Desenvolvimento de portfolio
-    2026 : Formatura (Prevista)
+## ⏱️ Esta Semana Eu Passei Meu Tempo Em:
+<!--START_SECTION:waka-->
+```text
+Python      7 hrs 30 mins   ███████████▓░░░░░░   50.25 %
+JavaScript  3 hrs 15 mins   ████▒░░░░░░░░░░░░░   25.15 %
+HTML/CSS    2 hrs 45 mins   ████▒░░░░░░░░░░░░░   20.35 %
+MySQL       35 mins         █░░░░░░░░░░░░░░░░░   04.25 %

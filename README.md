@@ -20,88 +20,92 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### 💻 Linguagens de Programação
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,java,git,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,java" alt="Programming Languages" />
 </div>
+
+### 🌐 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend Technologies" />
+</div>
+
+### 🧠 Backend & Banco de Dados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Backend & Database" />
+</div>
+
+### 🔧 Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</div>
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+- 🔍 Aprofundando em **Django** para desenvolvimento web
+- 📊 Explorando **Ciência de Dados** com Python
+- 🚀 Iniciando estudos em **React**
 
 ---
 
 ## 📂 Projetos em Destaque
 
-| Projeto                | Descrição                                            | Tecnologias                |
-|------------------------|------------------------------------------------------|----------------------------|
-| 🧐 **Clube de Xadrez** | Sistema de gerenciamento de associados e torneios    | HTML, CSS, JS, MySQL       |
-| 📊 **Sistema de Cadastro de Empresa**| Ferramenta para cadastro de empresas para escritorio de contabilidade | HTML,CSS,JS,MySQL       |
-
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|------------|------|
+| 🧐 **Clube de Xadrez** | Sistema de gerenciamento de associados e torneios | HTML, CSS, JS, MySQL | [Ver Projeto](https://github.com/alefsantos498/clube-xadrez) |
+| 📊 **Sistema de Cadastro de Empresa** | Ferramenta para cadastro de empresas para escritório de contabilidade | HTML, CSS, JS, MySQL | [Ver Projeto](https://github.com/alefsantos498/cadastro-empresa) |
 
 > 🚧 *Em constante aprimoramento e evolução!*
 
 ---
 
-## 🎓 Cursos e Certificações
+## 📸 Demonstração de Projetos
 
-- 📟 **Python Developer** – SoloLearn – 12/04/2025  
-- 📟 **Python Intermediate** – SoloLearn – 07/04/2025  
-- 📟 **Python AI Development** – Mimo – 07/04/2025  
-- 📟 **Curso de Python** – Mimo – 07/04/2025  
-- 📟 **Introduction to JavaScript** – SoloLearn – 27/02/2025  
-- 📟 **Introduction to Java** – SoloLearn – 19/02/2025  
-- 📟 **Introduction to C#** – SoloLearn – 14/02/2025  
-- 📟 **Introduction to Python** – SoloLearn – 16/01/2025  
-- 📟 **Introduction to C** – SoloLearn – 11/11/2024  
-- 📟 **Introduction to Python** – Codefinity – 19/04/2024  
-- 📟 **Conditional Statements in Python** – Codefinity – 24/08/2024  
-- 📟 **Python Data Structures** – Codefinity – 20/08/2024  
-- 📟 **Python Loops Tutorial** – Codefinity – 07/09/2024  
-- 📟 **Data Types in Python** – Codefinity – 27/04/2024  
-- 📟 **Java Basics** – Codefinity – 20/04/2024  
-- 📟 **Introdução à Linguagem Python** – Colabora Educação – 15h – 1º Sem/2025  
-- 📟 **Estruturas de Dados em Python** – Colabora Educação – 10h – 1º Sem/2025  
-- 📟 **Introdução à Análise de Dados com Python** – Colabora Educação – 15h – 1º Sem/2025  
+<details>
+  <summary>🧐 Clube de Xadrez</summary>
+  <img src="https://raw.githubusercontent.com/alefsantos498/clube-xadrez/main/screenshot.png" alt="Screenshot do Projeto Clube de Xadrez" />
+</details>
+
+<details>
+  <summary>📊 Sistema de Cadastro de Empresa</summary>
+  <img src="https://raw.githubusercontent.com/alefsantos498/cadastro-empresa/main/screenshot.png" alt="Screenshot do Sistema de Cadastro" />
+</details>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 💼 Experiência Profissional
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=transparent&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=transparent" />
-</div>
+<img align="right" width="150" src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo-500x281.png" />
 
----
-
-## 🔥 Contribuições Recentes
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alefsantos498&theme=github" alt="Contribution Graph" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=for-the-badge" alt="Profile views" />
-</div>
+### Sebrae MG
+**Estagiário de Desenvolvimento** | Atual  
+- Desenvolvimento de soluções web para pequenos negócios
+- Suporte técnico para sistemas internos
+- Participação em projetos de transformação digital
 
 ---
 
-## 🧐 Sobre mim
+## 🗺️ Meu Roadmap de Carreira
 
-- 👨‍💻 Focado em desenvolvimento back-end, banco de dados e automações
-- 📚 Estudo constantemente para criar soluções que gerem impacto real
-- 🤝 Aberto a projetos colaborativos e oportunidades de networking
-
----
-
-## 📢 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alef-viana-191347355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alefviana4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+- [x] 🎓 Iniciar formação em Análise e Desenvolvimento de Sistemas
+- [x] 💼 Conquistar primeiro estágio na área de tecnologia
+- [ ] 🌐 Desenvolver um projeto fullstack completo
+- [ ] 📱 Criar um aplicativo mobile
+- [ ] 🏆 Contribuir para projetos open source
+- [ ] 👨‍💻 Tornar-me desenvolvedor fullstack
 
 ---
 
-<p align="center">
-  ⭐ Se curtir algum projeto, deixe uma estrela!<br>
-  🔄 Perfil em constante atualização!
-</p>
+## 📚 Timeline de Formação
+
+```mermaid
+timeline
+    title Minha Jornada Acadêmica e Profissional
+    2023 : Início da graduação em ADS
+    2024 : Estágio no Sebrae MG
+          : Primeiros projetos pessoais
+    2025 : Atual
+          : Desenvolvimento de portfolio
+    2026 : Formatura (Prevista)

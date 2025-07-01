@@ -272,7 +272,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
 
 <div align="center"> <img src="https://img.shields.io/badge/Membro-Comunidade%20Python%20Brasil-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Membro-Chess%20Dev%20BR-000000?style=for-the-badge&logo=lichess&logoColor=white" /> </div>
 
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=alefsantos498&cover_image=true&theme=novatorem" alt="Spotify Profile"/> </div>
+<div align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&redirect=true" alt="Spotify Profile"/> </div>
 
 <div align="center"> <h3>💭 Filosofia Profissional</h3> <blockquote> "Os problemas significativos que enfrentamos não podem ser resolvidos no mesmo nível de pensamento em que estávamos quando os criamos."<br>— Albert Einstein </blockquote> </div>
 

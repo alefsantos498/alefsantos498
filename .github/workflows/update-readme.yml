@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Roda toda semana no domingo
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          # Script para atualizar a data no README
+          sed -i "s/<small>© 2025 Alef Santos Viana. Última atualização:.*<\/small>/<small>© 2025 Alef Santos Viana. Última atualização: $(date +'%d\/%m\/%Y')<\/small>/" README.md
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Atualização automática do README"
+          git push

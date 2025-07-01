@@ -285,8 +285,10 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
 <!--START_SECTION:waka-->
 ```text
 Python      7 hrs 30 mins   ███████████▓░░░░░░   50.25 %
-JavaScript  3 hrs 15 mins   ████▒░░░░░░░░░░░░░   25.15 %
+JavaScript  3 hrs 15 mins   ████▒░░░░░░░░░░░░   25.15 %
 HTML/CSS    2 hrs 45 mins   ████▒░░░░░░░░░░░░░   20.35 %
 MySQL       35 mins         █░░░░░░░░░░░░░░░░░   04.25 %
+```
+<!--END_SECTION:waka-->
 
 

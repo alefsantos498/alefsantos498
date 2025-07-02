@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-## `console.log('Hello, World! 👋')`
+## `print('Hello, World! 👋')`
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 

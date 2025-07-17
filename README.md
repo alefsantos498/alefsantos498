@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack em Formação | Estudante de ADS | Estagiário no Sebrae MG</b>
+  <b>Desenvolvedor Fullstack em Formação | Estudante de ADS | Analista e Desenvolvedor de Sistemas MG</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Concentro meus estudos em desenvolvimento back-end, banco de dados e automações.
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💼 Atualmente estagiando no **Sebrae MG**
+- 💼 Atualmente procurando uma oportunidade
 - 📚 Aprendendo constantemente sobre novas tecnologias
 - 🤝 Aberto a colaborações e networking
 - ♟️ Apaixonado por xadrez e desafios lógicos
@@ -68,7 +68,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
   </tr>
 </table>
 
-### 📊 Níveis de Habilidade
+
 
 
 ---

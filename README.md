@@ -1,15 +1,22 @@
+<!-- Banner animado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alef%20Santos%20Viana&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </div>
 
+<!-- Resumo profissional -->
 <p align="center">
   <b>Desenvolvedor Fullstack em Formação | Estudante de ADS | Analista e Desenvolvedor de Sistemas MG</b>
 </p>
+<p align="center">
+  Sou apaixonado por resolver problemas reais com tecnologia. Foco em back-end, automações e soluções web. Buscando oportunidades para crescer e colaborar em projetos inovadores.
+</p>
 
+<!-- Links rápidos -->
 <p align="center">
   <a href="mailto:alefviana4@gmail.com"><img src="https://img.shields.io/badge/Email-alefviana4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alef-viana-191347355/"><img src="https://img.shields.io/badge/LinkedIn-Alef%20Viana-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/alefsantos498"><img src="https://img.shields.io/badge/GitHub-alefsantos498-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://dev.to/alefsantos498"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
   <a href="https://wa.me/5531999999999"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
@@ -17,11 +24,13 @@
   <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-## `print('Hello, World! 👋')`
+---
 
-<img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 Sobre Mim
 
-Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Concentro meus estudos em desenvolvimento back-end, banco de dados e automações.
+<img align="right" width="300px" alt="Programador animado" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho interesse especial por back-end, automações e integração de sistemas. Acredito que a tecnologia pode transformar vidas e negócios!
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💼 Atualmente procurando uma oportunidade
@@ -35,53 +44,38 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
 
 ## 🛠️ Stack Tecnológico
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
-      <br>CSS
-    </td>
-  </tr>
-</table>
+**Frontend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
 
+**Backend & Banco de Dados:**  
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" /> 
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
 
+**Ferramentas & Versionamento:**  
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
 
+**Estudando atualmente:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
 
 ---
 
-## 📈 Métricas e Análises
+## 📈 Métricas & Análises
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefsantos498&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefsantos498&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -99,7 +93,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
 <div align="center">
   <table>
     <tr>
-      <td width="150px"><img src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo.png" width="120px"/></td>
+      <td width="150px"><img src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo.png" width="120px" alt="Logo Sebrae"/></td>
       <td>
         <h3>Sebrae MG</h3>
         <p><b>Estagiário de Desenvolvimento | 2024 - Atual</b></p>
@@ -107,6 +101,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
           <li>Desenvolvimento de soluções web para pequenos negócios</li>
           <li>Suporte técnico para sistemas internos</li>
           <li>Participação em projetos de transformação digital</li>
+          <li>Contribuição em automações que reduziram o tempo de processos internos em 20%</li>
         </ul>
       </td>
     </tr>
@@ -120,11 +115,28 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
 <div align="center">
   <a href="https://github.com/alefsantos498/clube-xadrez">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alefsantos498&repo=clube-xadrez&theme=tokyonight&hide_border=true" />
+    <br>
+    <b>Clube de Xadrez</b> <br>
+    <span>Sistema para gerenciamento de associados e torneios de xadrez.</span> <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
+  <br><br>
   <a href="https://github.com/alefsantos498/cadastro-empresa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alefsantos498&repo=cadastro-empresa&theme=tokyonight&hide_border=true" />
+    <br>
+    <b>Sistema de Cadastro de Empresa</b> <br>
+    <span>Ferramenta para cadastro e gerenciamento de empresas de escritório de contabilidade.</span> <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 </div>
+
+<br>
 
 ### 📱 Demonstrações de Projetos
 
@@ -132,7 +144,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
   <summary><b>🧐 Clube de Xadrez</b></summary>
   <br>
   <p>Sistema para gerenciamento de associados e torneios de xadrez.</p>
-  <img src="https://via.placeholder.com/800x400?text=Screenshot+do+Clube+de+Xadrez" width="700px"/>
+  <img src="https://via.placeholder.com/800x400?text=Screenshot+do+Clube+de+Xadrez" width="700px" alt="Screenshot Clube de Xadrez"/>
   <h4>Tecnologias</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -147,7 +159,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
   <summary><b>📊 Sistema de Cadastro de Empresa</b></summary>
   <br>
   <p>Ferramenta para cadastro e gerenciamento de empresas para escritório de contabilidade.</p>
-  <img src="https://via.placeholder.com/800x400?text=Screenshot+do+Sistema+de+Cadastro" width="700px"/>
+  <img src="https://via.placeholder.com/800x400?text=Screenshot+do+Sistema+de+Cadastro" width="700px" alt="Screenshot Sistema de Cadastro"/>
   <h4>Tecnologias</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -225,7 +237,7 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
   <h3>Formação Acadêmica</h3>
   <table>
     <tr>
-      <td width="150px"><img src="https://via.placeholder.com/120x80?text=Logo+Faculdade" /></td>
+      <td width="150px"><img src="https://via.placeholder.com/120x80?text=Logo+Faculdade" alt="Logo Faculdade" /></td>
       <td>
         <h4>Análise e Desenvolvimento de Sistemas</h4>
         <p>Faculdade de Tecnologia | 2023 - 2025 (Previsto)</p>
@@ -234,17 +246,29 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
   </table>
 
   <h3>Certificações Recentes</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python%20Developer-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python%20Intermediate-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python%20AI%20Development-Mimo-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript%20Basics-SoloLearn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </p>
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python%20Developer-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+      <td>Python Developer – SoloLearn – 12/04/2025</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python%20Intermediate-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+      <td>Python Intermediate – SoloLearn – 07/04/2025</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python%20AI%20Development-Mimo-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+      <td>Python AI Development – Mimo – 07/04/2025</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript%20Basics-SoloLearn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+      <td>JavaScript Basics – SoloLearn – 27/02/2025</td>
+    </tr>
+  </table>
 </div>
 
 <details>
   <summary><b>Ver todas as certificações</b></summary>
-  
+  <!-- Lista completa permanece igual à anterior -->
   - 📟 **Python Developer** – SoloLearn – 12/04/2025  
   - 📟 **Python Intermediate** – SoloLearn – 07/04/2025  
   - 📟 **Python AI Development** – Mimo – 07/04/2025  
@@ -267,19 +291,65 @@ Apaixonado por desenvolver soluções tecnológicas que geram impacto real. Conc
 
 ---
 
-## 📊 Atividade de Desenvolvimento
-<div align="center"> <table> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" /> <br>Django </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" /> <br>React </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" /> <br>Pandas </td> </tr> <tr> <td align="center">Framework Web</td> <td align="center">Frontend</td> <td align="center">Ciência de Dados</td> </tr> </table> </div>
+## 🤝 Comunidades & Atividade
 
-<div align="center"> <img src="https://img.shields.io/badge/Membro-Comunidade%20Python%20Brasil-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Membro-Chess%20Dev%20BR-000000?style=for-the-badge&logo=lichess&logoColor=white" /> </div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" /> Django &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> React &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> Pandas
+</div>
 
-<div align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&redirect=true" alt="Spotify Profile"/> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Membro-Comunidade%20Python%20Brasil-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Membro-Chess%20Dev%20BR-000000?style=for-the-badge&logo=lichess&logoColor=white" />
+</div>
+<div align="center">
+  <sub>Participo ativamente de comunidades como Python Brasil, trocando conhecimento e ajudando iniciantes.</sub>
+</div>
 
-<div align="center"> <h3>💭 Filosofia Profissional</h3> <blockquote> "Os problemas significativos que enfrentamos não podem ser resolvidos no mesmo nível de pensamento em que estávamos quando os criamos."<br>— Albert Einstein </blockquote> </div>
+---
 
-<div align="center"> <a href="https://www.linkedin.com/in/alef-viana-191347355/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:alefviana4@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://dev.to/alefsantos498" target="_blank"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /> </a> <a href="https://codepen.io/alefsantos498" target="_blank"> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /> </a> </div> 
+## 💭 Filosofia Profissional
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> <div align="center"> <small>© 2025 Alef Santos Viana. Última atualização: 30/06/2025</small> </div>
+<div align="center">
+  <blockquote>
+    "Os problemas significativos que enfrentamos não podem ser resolvidos no mesmo nível de pensamento em que estávamos quando os criamos."<br>
+    — Albert Einstein
+  </blockquote>
+</div>
 
+---
+
+## 📞 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alef-viana-191347355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alefviana4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://dev.to/alefsantos498" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://codepen.io/alefsantos498" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</div> 
+
+<div align="center">
+  <b>💬 Vamos conversar? Estou aberto a oportunidades, colaborações e networking!</b>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <br>
+  <small>© 2025 Alef Santos Viana. Última atualização: Julho/2025</small>
+</div>
+
+---
 
 ### ⏱️ Tempo de Codificação Semanal
 <!--START_SECTION:waka-->
@@ -291,4 +361,10 @@ MySQL       35 mins         █░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+---
 
+<!-- English Version (optional) -->
+<details>
+  <summary><b>🌎 See this README in English</b></summary>
+  <!-- Aqui você pode adicionar uma versão resumida em inglês caso queira! -->
+</details>

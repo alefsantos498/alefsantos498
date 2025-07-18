@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alef%20Santos%20Viana&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </div>
 
+<!-- Animação de digitação -->
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Entusiasta+React;Sempre+Aprendendo" alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- Resumo profissional -->
 <p align="center">
   <b>Desenvolvedor Fullstack em Formação | Analista e Desenvolvedor de Sistemas MG</b>
@@ -44,34 +51,33 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 
 ## 🛠️ Stack Tecnológico
 
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+<div align="center">
+  <h3>Tecnologias que utilizo</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,django,mysql,git,github" />
+</div>
 
-**Backend & Banco de Dados:**  
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" /> 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
-
-**Ferramentas & Versionamento:**  
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-
-**Estudando atualmente:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+<div align="center">
+  <h4>Estudando atualmente:</h4>
+  <img src="https://skillicons.dev/icons?i=ts,docker,nodejs,mongodb" />
+</div>
 
 ---
 
 ## 📈 Métricas & Análises
 
+<!-- Estatísticas com tema adaptativo claro/escuro -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&count_private=true&include_all_commits=true">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=default&hide_border=true">
+    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact">
+  </picture>
 </div>
 
 <div align="center">
@@ -96,7 +102,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
       <td width="150px"><img src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo.png" width="120px" alt="Logo Sebrae"/></td>
       <td>
         <h3>Sebrae MG</h3>
-        <p><b>Estagiário de Desenvolvimento | 2024 - Atual</b></p>
+        <p><b>Estagiário de Desenvolvimento | 2023 - Atual</b></p>
         <ul>
           <li>Desenvolvimento de soluções web para pequenos negócios</li>
           <li>Suporte técnico para sistemas internos</li>
@@ -106,6 +112,16 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🎧 Ouvindo agora
+<div align="center">
+  <a href="https://open.spotify.com/user/SEU_USER_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER_ID&cover_image=true&theme=novatorem" alt="Spotify Playing" />
+  </a>
+  <p><sup><i>Substitua "SEU_USER_ID" pelo seu ID do Spotify</i></sup></p>
 </div>
 
 ---
@@ -144,7 +160,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <summary><b>🧐 Clube de Xadrez</b></summary>
   <br>
   <p>Sistema para gerenciamento de associados e torneios de xadrez.</p>
-  <img src="https://via.placeholder.com/800x400?text=Screenshot+do+Clube+de+Xadrez" width="700px" alt="Screenshot Clube de Xadrez"/>
+  <img src="https://placehold.co/800x400/2563eb/FFFFFF?text=Clube+de+Xadrez" width="700px" alt="Screenshot Clube de Xadrez"/>
   <h4>Tecnologias</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -159,7 +175,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <summary><b>📊 Sistema de Cadastro de Empresa</b></summary>
   <br>
   <p>Ferramenta para cadastro e gerenciamento de empresas para escritório de contabilidade.</p>
-  <img src="https://via.placeholder.com/800x400?text=Screenshot+do+Sistema+de+Cadastro" width="700px" alt="Screenshot Sistema de Cadastro"/>
+  <img src="https://placehold.co/800x400/0f766e/FFFFFF?text=Sistema+de+Cadastro" width="700px" alt="Screenshot Sistema de Cadastro"/>
   <h4>Tecnologias</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -169,6 +185,12 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   </p>
   <a href="https://github.com/alefsantos498/cadastro-empresa"><b>Ver Código »</b></a>
 </details>
+
+---
+
+## 📝 Últimos Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -237,7 +259,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <h3>Formação Acadêmica</h3>
   <table>
     <tr>
-      <td width="150px"><img src="https://via.placeholder.com/120x80?text=Logo+Faculdade" alt="Logo Faculdade" /></td>
+      <td width="150px"><img src="https://placehold.co/120x80/404040/FFFFFF?text=Sua+Faculdade" alt="Logo Faculdade" /></td>
       <td>
         <h4>Análise e Desenvolvimento de Sistemas</h4>
         <p>Faculdade de Tecnologia | 2023 - 2025 (Previsto)</p>
@@ -249,55 +271,48 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Python%20Developer-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-      <td>Python Developer – SoloLearn – 12/04/2025</td>
+      <td>Python Developer – SoloLearn – 12/04/2023</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Python%20Intermediate-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-      <td>Python Intermediate – SoloLearn – 07/04/2025</td>
+      <td>Python Intermediate – SoloLearn – 07/04/2023</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Python%20AI%20Development-Mimo-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-      <td>Python AI Development – Mimo – 07/04/2025</td>
+      <td>Python AI Development – Mimo – 07/04/2023</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript%20Basics-SoloLearn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-      <td>JavaScript Basics – SoloLearn – 27/02/2025</td>
+      <td>JavaScript Basics – SoloLearn – 27/02/2023</td>
     </tr>
   </table>
 </div>
 
 <details>
   <summary><b>Ver todas as certificações</b></summary>
-  <!-- Lista completa permanece igual à anterior -->
-  - 📟 **Python Developer** – SoloLearn – 12/04/2025  
-  - 📟 **Python Intermediate** – SoloLearn – 07/04/2025  
-  - 📟 **Python AI Development** – Mimo – 07/04/2025  
-  - 📟 **Curso de Python** – Mimo – 07/04/2025  
-  - 📟 **Introduction to JavaScript** – SoloLearn – 27/02/2025  
-  - 📟 **Introduction to Java** – SoloLearn – 19/02/2025  
-  - 📟 **Introduction to C#** – SoloLearn – 14/02/2025  
-  - 📟 **Introduction to Python** – SoloLearn – 16/01/2025  
-  - 📟 **Introduction to C** – SoloLearn – 11/11/2024  
-  - 📟 **Introduction to Python** – Codefinity – 19/04/2024  
-  - 📟 **Conditional Statements in Python** – Codefinity – 24/08/2024  
-  - 📟 **Python Data Structures** – Codefinity – 20/08/2024  
-  - 📟 **Python Loops Tutorial** – Codefinity – 07/09/2024  
-  - 📟 **Data Types in Python** – Codefinity – 27/04/2024  
-  - 📟 **Java Basics** – Codefinity – 20/04/2024  
-  - 📟 **Introdução à Linguagem Python** – Colabora Educação – 15h – 1º Sem/2025  
-  - 📟 **Estruturas de Dados em Python** – Colabora Educação – 10h – 1º Sem/2025  
-  - 📟 **Introdução à Análise de Dados com Python** – Colabora Educação – 15h – 1º Sem/2025  
+  - 📟 **Python Developer** – SoloLearn – 12/04/2023  
+  - 📟 **Python Intermediate** – SoloLearn – 07/04/2023  
+  - 📟 **Python AI Development** – Mimo – 07/04/2023  
+  - 📟 **Curso de Python** – Mimo – 07/04/2023  
+  - 📟 **Introduction to JavaScript** – SoloLearn – 27/02/2023  
+  - 📟 **Introduction to Java** – SoloLearn – 19/02/2023  
+  - 📟 **Introduction to C#** – SoloLearn – 14/02/2023  
+  - 📟 **Introduction to Python** – SoloLearn – 16/01/2023  
+  - 📟 **Introduction to C** – SoloLearn – 11/11/2022  
+  - 📟 **Introduction to Python** – Codefinity – 19/04/2022  
+  - 📟 **Conditional Statements in Python** – Codefinity – 24/08/2022  
+  - 📟 **Python Data Structures** – Codefinity – 20/08/2022  
+  - 📟 **Python Loops Tutorial** – Codefinity – 07/09/2022  
+  - 📟 **Data Types in Python** – Codefinity – 27/04/2022  
+  - 📟 **Java Basics** – Codefinity – 20/04/2022  
+  - 📟 **Introdução à Linguagem Python** – Colabora Educação – 15h – 1º Sem/2023  
+  - 📟 **Estruturas de Dados em Python** – Colabora Educação – 10h – 1º Sem/2023  
+  - 📟 **Introdução à Análise de Dados com Python** – Colabora Educação – 15h – 1º Sem/2023  
 </details>
 
 ---
 
 ## 🤝 Comunidades & Atividade
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" /> Django &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> React &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> Pandas
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Membro-Comunidade%20Python%20Brasil-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -346,7 +361,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   <br>
-  <small>© 2025 Alef Santos Viana. Última atualização: Julho/2025</small>
+  <small>© 2023 Alef Santos Viana. Última atualização: Julho/2023</small>
 </div>
 
 ---
@@ -358,13 +373,3 @@ Python      7 hrs 30 mins   ███████████▓░░░░░�
 JavaScript  3 hrs 15 mins   ████▒░░░░░░░░░░░░   25.15 %
 HTML/CSS    2 hrs 45 mins   ████▒░░░░░░░░░░░░░   20.35 %
 MySQL       35 mins         █░░░░░░░░░░░░░░░░░   04.25 %
-```
-<!--END_SECTION:waka-->
-
----
-
-<!-- English Version (optional) -->
-<details>
-  <summary><b>🌎 See this README in English</b></summary>
-  <!-- Aqui você pode adicionar uma versão resumida em inglês caso queira! -->
-</details>

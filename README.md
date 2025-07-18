@@ -379,3 +379,4 @@ MySQL       35 mins         █░░░░░░░░░░░░░░░░�
 <div align="center">
 <img src="./dist/github-snake.svg"
 alt=Snake Animation"/>
+</div>

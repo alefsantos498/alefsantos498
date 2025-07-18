@@ -5,7 +5,7 @@
 
 <!-- Resumo profissional -->
 <p align="center">
-  <b>Desenvolvedor Fullstack em Formação | Estudante de ADS | Analista e Desenvolvedor de Sistemas MG</b>
+  <b>Desenvolvedor Fullstack em Formação | Analista e Desenvolvedor de Sistemas MG</b>
 </p>
 <p align="center">
   Sou apaixonado por resolver problemas reais com tecnologia. Foco em back-end, automações e soluções web. Buscando oportunidades para crescer e colaborar em projetos inovadores.

@@ -151,8 +151,9 @@ Desenvolvedor em transição para posição Júnior/Pleno com foco em **automaç
 <div align="center">
   <table>
     <tr>
+      <td width="150px"><img src="https://github.com/alefsantos498/alefsantos498/blob/main/universidade-anhanguera-logo-1.png" width="120px" alt="Logo Sebrae"/></td>
       <td>
-        <h4>🎓 Análise e Desenvolvimento de Sistemas</h4>
+        <h4> Análise e Desenvolvimento de Sistemas</h4>
         <p>Faculdade de Tecnologia | 2023 - 2025</p>
       </td>
     </tr>

@@ -373,9 +373,10 @@ Python      7 hrs 30 mins   ███████████▓░░░░░�
 JavaScript  3 hrs 15 mins   ████▒░░░░░░░░░░░░   25.15 %
 HTML/CSS    2 hrs 45 mins   ████▒░░░░░░░░░░░░░   20.35 %
 MySQL       35 mins         █░░░░░░░░░░░░░░░░░   04.25 %
-
+```
 <!--END_SECTION:waka-->
 <!--Snake Animation-->
+
 <div align="center">
 <img src="./dist/github-snake.svg"
 alt=Snake Animation"/>

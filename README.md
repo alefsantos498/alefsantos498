@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/alef-viana-191347355/"><img src="https://img.shields.io/badge/LinkedIn-Alef%20Viana-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/alefsantos498"><img src="https://img.shields.io/badge/GitHub-alefsantos498-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://dev.to/alefsantos498"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
-  <a href="https://wa.me/5531999999999"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/5535998427854"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">

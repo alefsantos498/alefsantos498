@@ -66,7 +66,7 @@ Desenvolvedor em transição para posição Júnior/Pleno com foco em **automaç
 <div align="center">
   <table>
     <tr>
-      <td width="150px"><img src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo.png" width="120px" alt="Logo Sebrae"/></td>
+      <td width="150px"><img src="https://github.com/alefsantos498/alefsantos498/blob/main/logo_sebrae.png" width="120px" alt="Logo Sebrae"/></td>
       <td>
         <h3>Sebrae MG - Estagiário de Desenvolvimento</h3>
         <p><b>2023 - 2025 (2 anos)</b></p>

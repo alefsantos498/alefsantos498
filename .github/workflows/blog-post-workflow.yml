@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://dev.to/feed/alefsantos498"
+          max_post_count: 6
+          date_format: "UTM dd mmm yyyy"
+          custom_tags: "alefsantos498,desenvolvimento,python,javascript,react"
+          template: "- [$title]($url) - $date"
+          commit_message: "📝 Updated with the latest blog posts from Dev.to"
+          committer_username: "alefsantos498"
+          committer_email: "alefviana4@gmail.com"

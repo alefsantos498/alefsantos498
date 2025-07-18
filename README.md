@@ -39,7 +39,7 @@
 
 Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho interesse especial por back-end, automações e integração de sistemas. Acredito que a tecnologia pode transformar vidas e negócios!
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas - Anhanguera**
 - 💼 Atualmente procurando uma oportunidade
 - 📚 Aprendendo constantemente sobre novas tecnologias
 - 🤝 Aberto a colaborações e networking
@@ -59,6 +59,13 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 <div align="center">
   <h4>Estudando atualmente:</h4>
   <img src="https://skillicons.dev/icons?i=ts,docker,nodejs,mongodb" />
+</div>
+
+<div align="center">
+  <h4>🎯 Próximas tecnologias no roadmap:</h4>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,redis,graphql,nextjs,prisma" />
+  <br>
+  <sub><i>AWS • Kubernetes • Redis • GraphQL • Next.js • Prisma</i></sub>
 </div>
 
 ---
@@ -104,11 +111,15 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
         <h3>Sebrae MG</h3>
         <p><b>Estagiário de Desenvolvimento | 2023 - Atual</b></p>
         <ul>
-          <li>Desenvolvimento de soluções web para pequenos negócios</li>
-          <li>Suporte técnico para sistemas internos</li>
-          <li>Participação em projetos de transformação digital</li>
-          <li>Contribuição em automações que reduziram o tempo de processos internos em 20%</li>
+          <li>Desenvolvimento de soluções web personalizadas para pequenos e médios negócios</li>
+          <li>Criação de automações que reduziram o tempo de processos internos em 30%</li>
+          <li>Suporte técnico especializado para sistemas internos e plataformas digitais</li>
+          <li>Participação ativa em projetos de transformação digital para empreendedores</li>
+          <li>Desenvolvimento de dashboards e relatórios automatizados</li>
+          <li>Colaboração em iniciativas de capacitação digital para pequenos empresários</li>
+          <li>Implementação de melhorias em sistemas de gestão empresarial</li>
         </ul>
+        <p><b>Principais tecnologias utilizadas:</b> Python, JavaScript, HTML/CSS, MySQL, APIs REST</p>
       </td>
     </tr>
   </table>
@@ -118,10 +129,9 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 
 ## 🎧 Ouvindo agora
 <div align="center">
-  <a href="https://open.spotify.com/user/SEU_USER_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER_ID&cover_image=true&theme=novatorem" alt="Spotify Playing" />
+  <a href="https://open.spotify.com/user/31rmhqc62q2cgycopsaievmjl2sy">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&cover_image=true&theme=novatorem" alt="Spotify Playing" />
   </a>
-  <p><sup><i>Substitua "SEU_USER_ID" pelo seu ID do Spotify</i></sup></p>
 </div>
 
 ---
@@ -132,7 +142,10 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <a href="https://github.com/alefsantos498/clube-xadrez">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alefsantos498&repo=clube-xadrez&theme=tokyonight&hide_border=true" />
     <br>
-    <b>Clube de Xadrez</b> <br>
+    <b>Clube de Xadrez</b> 
+    <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Versão-v2.1-blue?style=flat-square"/>
+    <br>
     <span>Sistema para gerenciamento de associados e torneios de xadrez.</span> <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -143,7 +156,10 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <a href="https://github.com/alefsantos498/cadastro-empresa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alefsantos498&repo=cadastro-empresa&theme=tokyonight&hide_border=true" />
     <br>
-    <b>Sistema de Cadastro de Empresa</b> <br>
+    <b>Sistema de Cadastro de Empresa</b> 
+    <img src="https://img.shields.io/badge/Status-Manutenção-orange?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Versão-v1.5-blue?style=flat-square"/>
+    <br>
     <span>Ferramenta para cadastro e gerenciamento de empresas de escritório de contabilidade.</span> <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -259,31 +275,35 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <h3>Formação Acadêmica</h3>
   <table>
     <tr>
-      <td width="150px"><img src="https://placehold.co/120x80/404040/FFFFFF?text=Sua+Faculdade" alt="Logo Faculdade" /></td>
+      <td width="150px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anhanguera_Educacional_logo.svg/2560px-Anhanguera_Educacional_logo.svg.png" alt="Logo Anhanguera" width="120px" /></td>
       <td>
         <h4>Análise e Desenvolvimento de Sistemas</h4>
-        <p>Faculdade de Tecnologia | 2023 - 2025 (Previsto)</p>
+        <p>Anhanguera Educacional | 2023 - 2025 (Previsto)</p>
       </td>
     </tr>
   </table>
 
-  <h3>Certificações Recentes</h3>
+  <h3>🏆 Certificações Recentes</h3>
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Python%20Developer-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-      <td>Python Developer – SoloLearn – 12/04/2023</td>
+      <td><b>Python Developer</b> – SoloLearn – 12/04/2023</td>
+      <td><img src="https://img.shields.io/badge/-2023-green?style=flat-square"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Python%20Intermediate-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-      <td>Python Intermediate – SoloLearn – 07/04/2023</td>
+      <td><b>Python Intermediate</b> – SoloLearn – 07/04/2023</td>
+      <td><img src="https://img.shields.io/badge/-2023-green?style=flat-square"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Python%20AI%20Development-Mimo-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-      <td>Python AI Development – Mimo – 07/04/2023</td>
+      <td><b>Python AI Development</b> – Mimo – 07/04/2023</td>
+      <td><img src="https://img.shields.io/badge/-2023-green?style=flat-square"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript%20Basics-SoloLearn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-      <td>JavaScript Basics – SoloLearn – 27/02/2023</td>
+      <td><b>JavaScript Basics</b> – SoloLearn – 27/02/2023</td>
+      <td><img src="https://img.shields.io/badge/-2023-green?style=flat-square"/></td>
     </tr>
   </table>
 </div>
@@ -361,7 +381,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   <br>
-  <small>© 2023 Alef Santos Viana. Última atualização: Julho/2023</small>
+  <small>© 2025 Alef Santos Viana. Última atualização: Janeiro/2025</small>
 </div>
 
 ---
@@ -377,6 +397,6 @@ MySQL       35 mins         █░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <!--Snake Animation-->
 <div align="center">
-<img src="./dist/github-snake.svg"
-alt=Snake Animation"/>
+<img src="https://raw.githubusercontent.com/alefsantos498/alefsantos498/output/github-contribution-grid-snake.svg"
+alt="Snake Animation"/>
 </div>

@@ -14,7 +14,7 @@ jobs:
       - name: Update README
         run: |
           # Script para atualizar a data no README
-          sed -i "s/<small>© 2025 Alef Santos Viana. Última atualização:.*<\/small>/<small>© 2025 Alef Santos Viana. Última atualização: $(date +'%d\/%m\/%Y')<\/small>/" README.md
+          sed -i "s/<small>© 2025 Alef Santos Viana. Última atualização:.*<\/small>/<small>© 2025 Alef Santos Viana. Última atualização: $(date +'%B\/%Y')<\/small>/" README.md
           
       - name: Commit & Push
         run: |

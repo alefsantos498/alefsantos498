@@ -118,10 +118,9 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 
 ## 🎧 Ouvindo agora
 <div align="center">
-  <a href="https://open.spotify.com/user/SEU_USER_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_USER_ID&cover_image=true&theme=novatorem" alt="Spotify Playing" />
+  <a href="https://open.spotify.com/user/31rmhqc62q2cgycopsaievmjl2sy">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&cover_image=true&theme=novatorem" alt="Spotify Playing" />
   </a>
-  <p><sup><i>Substitua "SEU_USER_ID" pelo seu ID do Spotify</i></sup></p>
 </div>
 
 ---
@@ -259,7 +258,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
   <h3>Formação Acadêmica</h3>
   <table>
     <tr>
-      <td width="150px"><img src="https://placehold.co/120x80/404040/FFFFFF?text=Sua+Faculdade" alt="Logo Faculdade" /></td>
+      <td width="150px"><img src="https://img.icons8.com/color/96/000000/university.png" alt="Universidade" /></td>
       <td>
         <h4>Análise e Desenvolvimento de Sistemas</h4>
         <p>Faculdade de Tecnologia | 2023 - 2025 (Previsto)</p>
@@ -378,6 +377,5 @@ MySQL       35 mins         █░░░░░░░░░░░░░░░░�
 <!--Snake Animation-->
 
 <div align="center">
-<img src="./dist/github-snake.svg"
-alt=Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>

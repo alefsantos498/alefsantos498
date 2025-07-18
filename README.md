@@ -30,6 +30,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+---
+<details>
+<summary><b>📱 Versão Resumida (Mobile)</b></summary>
+
+### 👋 Alef Santos Viana
+**Desenvolvedor Full Stack | 2+ anos experiência | Formando ADS 2025**
+
+**🛠️ Stack:** Python • JavaScript • React • Django • MySQL
+
+**💼 Experiência:** Sebrae MG (2023-2025) - Automações e desenvolvimento web
+
+**🎯 Objetivo:** Transição para Desenvolvedor Júnior/Pleno em 2026
+
+**📞 Contato:** [LinkedIn](https://www.linkedin.com/in/alef-viana-191347355/) | [Email](mailto:alefviana4@gmail.com) | [WhatsApp](https://wa.me/5535998427854)
+
+</details>
 
 ---
 
@@ -39,8 +55,9 @@
 
 Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho interesse especial por back-end, automações e integração de sistemas. Acredito que a tecnologia pode transformar vidas e negócios!
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💼 Atualmente procurando uma oportunidade
+- 💼 Desenvolvedor em transição para posição Júnior/Pleno
+- 🎯 Foco em oportunidades Full Stack
+- 🌟 Disponível para novos desafios a partir de 2026
 - 📚 Aprendendo constantemente sobre novas tecnologias
 - 🤝 Aberto a colaborações e networking
 - ♟️ Apaixonado por xadrez e desafios lógicos
@@ -54,6 +71,15 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 <div align="center">
   <h3>Tecnologias que utilizo</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,django,mysql,git,github" />
+</div>
+<div align="center">
+  <h3>Stack Principal (2025)</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,django,mysql,git,github,vscode,docker" />
+</div>
+
+<div align="center">
+  <h4>Explorando em 2025:</h4>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,postgresql,redis,aws" />
 </div>
 
 <div align="center">
@@ -102,7 +128,7 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
       <td width="150px"><img src="https://logosmarcas.net/wp-content/uploads/2021/03/Sebrae-Logo.png" width="120px" alt="Logo Sebrae"/></td>
       <td>
         <h3>Sebrae MG</h3>
-        <p><b>Estagiário de Desenvolvimento | 2023 - Atual</b></p>
+        <p><b>Estagiário de Desenvolvimento | 2023 - 2025 (2 anos)</b></p>
         <ul>
           <li>Desenvolvimento de soluções web para pequenos negócios</li>
           <li>Suporte técnico para sistemas internos</li>
@@ -354,13 +380,42 @@ Sou um entusiasta da tecnologia, sempre buscando aprender algo novo. Tenho inter
 <div align="center">
   <b>💬 Vamos conversar? Estou aberto a oportunidades, colaborações e networking!</b>
 </div>
+---
+## 🤝 Vamos Trabalhar Juntos?
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>💼 Para Recrutadores</h3>
+        <p>Procurando um desenvolvedor dedicado com 2+ anos de experiência?</p>
+        <a href="mailto:alefviana4@gmail.com?subject=Oportunidade de Trabalho">
+          <img src="https://img.shields.io/badge/Enviar%20Proposta-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🚀 Para Projetos</h3>
+        <p>Tem uma ideia e precisa de ajuda para desenvolvê-la?</p>
+        <a href="https://wa.me/5535998427854?text=Olá! Vi seu portfolio e gostaria de conversar sobre um projeto">
+          <img src="https://img.shields.io/badge/Vamos%20Conversar-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🤝 Para Networking</h3>
+        <p>Vamos nos conectar e trocar experiências!</p>
+        <a href="https://www.linkedin.com/in/alef-viana-191347355/">
+          <img src="https://img.shields.io/badge/Conectar-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   <br>
-  <small>© 2023 Alef Santos Viana. Última atualização: Julho/2023</small>
+  <small>© 2025 Alef Santos Viana. Última atualização: Julho/2025</small>
 </div>
 
 ---

@@ -39,7 +39,7 @@
 Desenvolvedor em transição para posição Júnior/Pleno com foco em **automações** e **desenvolvimento web**. 
 
 - 💼 **2+ anos** de experiência no Sebrae MG
-- 🎯 Especialista em **Python, JavaScript e React**
+- 🎯 Especialista em **Python, JavaScript, React, MysQl, HTML, CSS**
 - 🚀 **20% de redução** no tempo de processos internos através de automações
 - 📚 Formando em **Análise e Desenvolvimento de Sistemas** (2025)
 - 🤝 Membro ativo da **Comunidade Python Brasil**

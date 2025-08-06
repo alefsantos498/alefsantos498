@@ -12,7 +12,7 @@
 
 <!-- Resumo profissional -->
 <p align="center">
-  <b>Desenvolvedor Fullstack | 2+ anos experiência | Analista e Desenvolvedor de Sistemas MG</b>
+  <b>Desenvolvedor Fullstack | 1+ ano experiência | Analista e Desenvolvedor de Sistemas MG</b>
 </p>
 <p align="center">
   Desenvolvedor apaixonado por resolver problemas reais com tecnologia. Experiência em automações, desenvolvimento web e integração de sistemas. Disponível para oportunidades Júnior/Pleno a partir de 2026.
@@ -38,7 +38,7 @@
 
 Desenvolvedor em transição para posição Júnior/Pleno com foco em **automações** e **desenvolvimento web**. 
 
-- 💼 **2+ anos** de experiência no Sebrae MG
+- 💼 **1+ ano** de experiência no Sebrae MG
 - 🎯 Especialista em **Python, JavaScript, React, MysQl, HTML, CSS**
 - 🚀 **20% de redução** no tempo de processos internos através de automações
 - 📚 Formando em **Análise e Desenvolvimento de Sistemas** (2025)

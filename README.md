@@ -1,206 +1,98 @@
-<!-- Banner animado -->
+<!-- Header Animado com Efeito Glitch/Onda -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alef%20Santos%20Viana&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=220&section=header&text=Alef%20Viana&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Dev%20Fullstack%20%7C%20Python%20%26%20React&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<!-- Animação de digitação -->
+<!-- Typing Effect - Mais limpo e rápido -->
 <div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Entusiasta+React;Sempre+Aprendendo" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&lines=☕+Transformando+café+em+código;🐍+Especialista+em+Python+e+Django;⚛️+Criando+interfaces+com+React;🚀+Automatizando+o+mundo+real" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Resumo profissional -->
-<p align="center">
-  <b>Desenvolvedor Fullstack | 1+ ano experiência | Analista e Desenvolvedor de Sistemas MG</b>
-</p>
-<p align="center">
-  Desenvolvedor apaixonado por resolver problemas reais com tecnologia. Experiência em automações, desenvolvimento web e integração de sistemas. Disponível para oportunidades Júnior/Pleno a partir de 2026.
-</p>
-
-<!-- Links rápidos -->
-<p align="center">
-  <a href="mailto:alefviana4@gmail.com"><img src="https://img.shields.io/badge/Email-alefviana4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alef-viana-191347355/"><img src="https://img.shields.io/badge/LinkedIn-Alef%20Viana-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/alefsantos498"><img src="https://img.shields.io/badge/GitHub-alefsantos498-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://wa.me/5535998427854"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alefsantos498&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
----
-
-## 👨‍💻 Sobre Mim
-
-<img align="right" width="300px" alt="Programador animado" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-Desenvolvedor em transição para posição Júnior/Pleno com foco em **automações** e **desenvolvimento web**. 
-
-- 💼 **1+ ano** de experiência no Sebrae MG
-- 🎯 Especialista em **Python, JavaScript, React, MysQl, HTML, CSS**
-- 🚀 **20% de redução** no tempo de processos internos através de automações
-- 📚 Formado em **Análise e Desenvolvimento de Sistemas** (2025)
-- 🤝 Membro ativo da **Comunidade Python Brasil**
-- ♟️ Entusiasta de xadrez e desafios lógicos
-
-<br clear="right"/>
-
----
-
-## 🛠️ Stack Tecnológico
-
+<!-- Badges Sociais Modernas -->
 <div align="center">
-  <h3>Stack Principal</h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,django,mysql,git,github,vscode" />
-  
-  <h3>Estudando Atualmente</h3>
-  <img src="https://skillicons.dev/icons?i=ts,docker,nodejs,nextjs,tailwind" />
-</div>
-
----
-
-## 💼 Experiência Profissional
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="150px"><img src="https://github.com/alefsantos498/alefsantos498/blob/main/logo_sebrae.png" width="120px" alt="Logo Sebrae"/></td>
-      <td>
-        <h3>Sebrae MG - Estagiário de Desenvolvimento</h3>
-        <p><b>2023 - 2025 (2 anos)</b></p>
-        <ul>
-          <li>🚀 <b>Automações</b>: Reduziu tempo de processos internos em <b>20%</b></li>
-          <li>🌐 <b>Desenvolvimento web</b>: Criou soluções para <b>50+ pequenos negócios</b></li>
-          <li>🔧 <b>Suporte técnico</b>: Manteve <b>99% de uptime</b> dos sistemas internos</li>
-          <li>📊 <b>Transformação digital</b>: Participou de <b>3 projetos estratégicos</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🏆 Clube de Xadrez</h3>
-        <p><b>Sistema para gerenciamento de associados e torneios</b></p>
-        <ul>
-          <li>📈 <b>50+ usuários ativos</b></li>
-          <li>⚡ <b>60% redução</b> no tempo de organização</li>
-          <li>🎯 <b>100% automação</b> de cadastros</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        </p>
-        <a href="https://github.com/alefsantos498/clube-xadrez"><b>Logo mais...</b></a>
-      </td>
-      <td width="50%">
-        <h3>📊 Sistema de Cadastro Empresarial</h3>
-        <p><b>Ferramenta para escritório de contabilidade</b></p>
-        <ul>
-          <li>💼 <b>200+ empresas</b> cadastradas</li>
-          <li>⏰ <b>5h/semana</b> economizadas</li>
-          <li>🔄 <b>Automação completa</b> do processo manual</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        </p>
-        <a href="https://github.com/alefsantos498/cadastro-empresa"><b>Logo mais...</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&count_private=true&include_all_commits=true">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=default&hide_border=true">
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefsantos498&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎓 Formação & Certificações
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="150px"><img src="https://github.com/alefsantos498/alefsantos498/blob/main/universidade-anhanguera-logo-1.png" width="120px" alt="Logo Sebrae"/></td>
-      <td>
-        <h4> Análise e Desenvolvimento de Sistemas</h4>
-        <p>Faculdade de Tecnologia | 2023 - 2025</p>
-      </td>
-    </tr>
-  </table>
-  
-  <h4>🏆 Certificações Principais</h4>
-  <img src="https://img.shields.io/badge/Python%20Developer-SoloLearn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript%20Basics-SoloLearn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python%20AI%20Development-Mimo-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
----
-
-## 🎧 Ouvindo Agora
-<div align="center">
-  <a href="https://open.spotify.com/user/31rmhqc62q2cgycopsaievmjl2sy">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rmhqc62q2cgycopsaievmjl2sy&cover_image=true&theme=novatorem" alt="Spotify Playing" />
+  <a href="https://www.linkedin.com/in/alef-viana-191347355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alefviana4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5535998427854">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/alefsantos498">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
+<br/>
+
+<!-- Grid Sobre Mim + GIF -->
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="60%" valign="center">
+      <h2>⚡ Sobre Mim</h2>
+      <p>
+        Olá! Sou um desenvolvedor apaixonado por <b>resolver problemas complexos</b> de forma simples. Atualmente no <b>Sebrae MG</b>, onde já automatizei processos que economizaram centenas de horas de trabalho manual.
+      </p>
+      <p>
+        🔭 <b>Atualmente trabalhando em:</b> Sistemas de gestão com Django e React.<br>
+        🌱 <b>Aprendendo:</b> Arquitetura de Microsserviços e Docker.<br>
+        🎯 <b>Objetivo 2026:</b> Tornar-me referência técnica Fullstack Pleno.<br>
+        🧩 <b>Hobby:</b> Enxadrista nas horas vagas (e dev nas outras).
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5bWx3bGZ6aW55OG9tbm1rbWwxZm11M3BnZ2g3em14Z214Z214eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpoHBt37b2L0L2ks7H/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
-## 🤝 Vamos Trabalhar Juntos?
+<!-- Stack Tecnológico Organizado -->
+<h2 align="center">🛠️ Arsenal Tecnológico</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <h3>💼 Para Recrutadores</h3>
-        <p>Procurando um desenvolvedor com 2+ anos de experiência?</p>
-        <a href="mailto:alefviana4@gmail.com?subject=Oportunidade de Trabalho">
-          <img src="https://img.shields.io/badge/Enviar%20Proposta-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
+      <td align="center" width="90"><b>Front-end</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>Back-end</b></td>
+      <td><img src="https://skillicons.dev/icons?i=python,django,nodejs,mysql,sqlite&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Animação Snake (Requer GitHub Action - Leia as instruções abaixo do código) -->
+<!-- Se você ainda não configurou a Action, essa imagem pode aparecer quebrada inicialmente.
+     Substitua 'alefsantos498' pelo seu usuário se necessário. -->
+<h2 align="center">🔥 Minhas Contribuições</h2>
+<div align="center">
+  <img src="https://github.com/alefsantos498/alefsantos498/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefsantos498&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
       </td>
-      <td align="center" width="33%">
-        <h3>🚀 Para Projetos</h3>
-        <p>Tem uma ideia e precisa desenvolvê-la?</p>
-        <a href="https://wa.me/5535998427854?text=Olá! Vi seu portfolio e gostaria de conversar sobre um projeto">
-          <img src="https://img.shields.io/badge/Vamos%20Conversar-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <h3>🤝 Para Networking</h3>
-        <p>Vamos nos conectar e trocar experiências!</p>
-        <a href="https://www.linkedin.com/in/alef-viana-191347355/">
-          <img src="https://img.shields.io/badge/Conectar-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsantos498&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
       </td>
     </tr>
   </table>
@@ -208,8 +100,58 @@ Desenvolvedor em transição para posição Júnior/Pleno com foco em **automaç
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<!-- Projetos Expansíveis (Interativo) -->
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<details>
+  <summary><b>♟️ Clube de Xadrez (Clique para expandir)</b></summary>
   <br>
-  <small>© 2025 Alef Santos Viana. Última atualização: Julho/2025</small>
+  <table width="100%">
+    <tr>
+      <td width="60%">
+        <blockquote>
+          Sistema completo para gestão de torneios e associados. Eliminou o uso de planilhas e papel.
+        </blockquote>
+        <ul>
+          <li>✅ <b>Stack:</b> HTML, JS, MySQL</li>
+          <li>✅ <b>Impacto:</b> 50+ usuários ativos</li>
+          <li>✅ <b>Status:</b> Em produção</li>
+        </ul>
+        <a href="https://github.com/alefsantos498/clube-xadrez">
+          <img src="https://img.shields.io/badge/Ver_Repositório-blue?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>📊 Sistema Empresarial Contábil (Clique para expandir)</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="60%">
+        <blockquote>
+          Automação para escritório de contabilidade. Reduziu o tempo de cadastro de empresas em 90%.
+        </blockquote>
+        <ul>
+          <li>✅ <b>Stack:</b> Python, Selenium, MySQL</li>
+          <li>✅ <b>Impacto:</b> 200+ empresas cadastradas</li>
+          <li>✅ <b>Economia:</b> 5h semanais poupadas</li>
+        </ul>
+        <a href="https://github.com/alefsantos498/cadastro-empresa">
+          <img src="https://img.shields.io/badge/Ver_Repositório-blue?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br/>
+
+---
+
+<!-- Rodapé Futurista -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Vamos%20codar%20o%20futuro?&fontSize=25&fontColor=ffffff" width="100%"/>
 </div>

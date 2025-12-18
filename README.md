@@ -123,29 +123,7 @@
       </td>
     </tr>
   </table>
-</details>
-
-<details>
-  <summary><b>📊 Sistema Empresarial Contábil (Clique para expandir)</b></summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <td width="60%">
-        <blockquote>
-          Automação para escritório de contabilidade. Reduziu o tempo de cadastro de empresas em 90%.
-        </blockquote>
-        <ul>
-          <li>✅ <b>Stack:</b> Python, Selenium, MySQL</li>
-          <li>✅ <b>Impacto:</b> 200+ empresas cadastradas</li>
-          <li>✅ <b>Economia:</b> 5h semanais poupadas</li>
-        </ul>
-        <a href="https://github.com/alefsantos498/cadastro-empresa">
-          <img src="https://img.shields.io/badge/Ver_Repositório-blue?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
+</details
 
 <br/>
 

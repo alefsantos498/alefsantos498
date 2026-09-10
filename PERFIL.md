@@ -31,9 +31,9 @@
         Olá! Sou um desenvolvedor focado em <b>performance</b> e <b>usabilidade</b>. Atualmente no <b>Sebrae MG</b>, transformo processos manuais em sistemas digitais eficientes.
       </p>
       <ul>
-        <li>🔭 <b>Foco Atual:</b> Sistemas robustos com <b>Django</b> e interfaces com <b>React</b>.</li>
-        <li>🌱 <b>Estudando:</b> Microsserviços, Docker e CI/CD.</li>
-        <li>🎯 <b>Meta 2026:</b> Referência técnica Fullstack Pleno.</li>
+         <li>🔭 <b>Foco Atual:</b> Sistemas robustos com <b>Django</b> e interfaces com <b>React</b>.</li>
+         <li>🌱 <b>Estudando:</b> <b>C++</b> (foco em integração com Python), Microsserviços, Docker e CI/CD.</li>
+         <li>🎯 <b>Meta 2026:</b> Especialista Fullstack com alta performance em Backend.</li>
         <li>🧩 <b>Hobby:</b> Xadrez ♟️</li>
       </ul>
     </td>
